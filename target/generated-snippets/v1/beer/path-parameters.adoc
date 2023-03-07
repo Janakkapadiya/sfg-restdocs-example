@@ -1,0 +1,8 @@
+.+/api/v1/beer/{id}+
+|===
+|Parameter|Description
+
+|`+id+`
+|UUID To Check Beer If Exist In DB
+
+|===

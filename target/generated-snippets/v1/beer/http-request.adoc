@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+PUT /api/v1/beer/df7f239b-d36e-458f-bd07-0b6c7fccbbb1 HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Content-Length: 163
+Host: dev.springframework.don:80
+
+{"id":null,"version":null,"createdDate":null,"lastModifiedDate":null,"beerName":"Nice Ale","beerStyle":"ALE","upc":123123123123,"price":9.99,"quantityOnHand":null}
+----

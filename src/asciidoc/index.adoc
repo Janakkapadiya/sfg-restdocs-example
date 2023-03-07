@@ -1,0 +1,43 @@
+:icons: font
+:source-highlighter: highlightjs
+
+
+GET BEER
+One showing CURL request:
+
+include::{snippets}/v1/beer-get/curl-request.adoc[]
+
+One showing HTTP request:
+
+include::{snippets}/v1/beer-get/http-request.adoc[]
+
+One showing HTTP Response:
+
+include::{snippets}/v1/beer-get/http-response.adoc[]
+
+One showing response-body:
+
+include::{snippets}/v1/beer-get/response-body.adoc[]
+
+One showing response-fields:
+
+include::{snippets}/v1/beer-get/response-fields.adoc[]
+
+NEW BEER
+One showing CURL request:
+
+include::{snippets}/v1/beer-new/curl-request.adoc[]
+
+One showing HTTP request:
+
+include::{snippets}/v1/beer-new/http-request.adoc[]
+
+One showing HTTP Response:
+
+include::{snippets}/v1/beer-new/http-response.adoc[]
+
+One showing Request Fields
+
+include::{snippets}/v1/beer-new/request-fields.adoc[]
+
+include::{snippets}
